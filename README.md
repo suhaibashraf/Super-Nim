@@ -5,5 +5,5 @@ An advanced form of Nim game with the heaps of sticks, built in python and power
 ### Technology Used
 Python, MinMax (AI Technique)
 
-### More Details on Portfolio
+### More Detail on Portfolio
 Link: suhaibashraf.github.io/Portfolio/SnakeAndCake
