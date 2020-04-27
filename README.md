@@ -9,4 +9,4 @@ Python, MinMax (AI Technique)
 Link: suhaibashraf.github.io/Portfolio/SnakeAndCake
 
 ### Image
-![GitHub Logo](/sn2.jpg)
+ <img src="https://github.com/suhaibashraf/Super-Nim/blob/master/sn2.jpg" width="400" height="250">
