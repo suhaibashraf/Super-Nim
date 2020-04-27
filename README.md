@@ -7,3 +7,6 @@ Python, MinMax (AI Technique)
 
 ### More Detail on Portfolio
 Link: suhaibashraf.github.io/Portfolio/SnakeAndCake
+
+### Image
+![GitHub Logo](/sn2.jpg)
