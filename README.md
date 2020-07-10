@@ -6,7 +6,6 @@ An advanced form of Nim game with the heaps of sticks, built in python and power
 Python, MinMax (AI Technique)
 
 ### More Detail on Portfolio
-Link: suhaibashraf.github.io/Portfolio/
 [Link](https://suhaibashraf.github.io/Portfolio/super-nim)
 
 ### Image
