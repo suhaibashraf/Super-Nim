@@ -1,6 +1,6 @@
 # Super-Nim
 
-An advanced form of Nim game with the heaps of sticks, built in python and powered with AI. This enabled AI to win or atleast tie against human player.
+A more complex version of the Nim game with stacks of sticks, written in Python and powered by AI. This allowed the AI to beat or at least tie human players.
 
 ### Technology Used
 Python, MinMax (AI Technique)
